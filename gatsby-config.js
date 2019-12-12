@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `My Gatsby Starter`,
+    title: `Gatsby Starter TS Scss`,
     description: `Do Sass! Make the Typescripts!`,
     author: `@jtini`,
   },
